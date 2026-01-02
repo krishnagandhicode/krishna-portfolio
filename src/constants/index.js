@@ -195,7 +195,7 @@ const expCards = [
         title: "B.Tech Journey & Web Development (2023 – Present)",
         date: "Chandigarh Group of Colleges, Landran | 2023–2027 | CGPA: 8.02",
         responsibilities: [
-            "BStarted B.Tech in CSE and began building a strong base in programming, web technologies, and problem-solving.",
+            "Started B.Tech in CSE and began building a strong base in programming, web technologies, and problem-solving.",
             "Completed Front-End Web Development (Infosys Springboard) — HTML, CSS, JS, responsive designs.",
             "Built multiple practical projects including: ",
                 "ChatBot using Gemini AI (React + JS)",
